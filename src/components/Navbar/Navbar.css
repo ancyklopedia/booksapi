@@ -1,0 +1,28 @@
+.navbar1{
+    background-color: rgb(152, 144, 113);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.quote {
+    padding:2rem;
+    font-size: larger;
+    font-weight: 600;
+    text-align: right;
+    font-family:'Palatino Linotype';
+}
+
+.author{
+    font-size: xx-small;
+}
+
+.titlenav{
+    background-color: rgb(152, 144, 113);
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 10px 10px 0 rgba(0, 0, 0, 0.19);
+    font-family: Georgia;
+    font-size:3rem;
+    font-weight: 700;
+    font-variant:small-caps;
+    padding-bottom:1rem
+}
